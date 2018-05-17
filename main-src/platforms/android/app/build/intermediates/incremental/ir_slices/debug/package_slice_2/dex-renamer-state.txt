@@ -1,0 +1,4 @@
+#Fri May 18 07:07:31 CST 2018
+base.0=/Users/xuxinlai/blockchain/Elastos.ORG.Wallet.Mobile/main-src/platforms/android/app/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex
