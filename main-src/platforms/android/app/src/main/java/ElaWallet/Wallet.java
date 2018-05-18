@@ -12,6 +12,8 @@ import org.json.JSONObject;
  */
 public class Wallet extends CordovaPlugin {
 
+
+
     @Override
     public boolean execute(String action, JSONArray args, CallbackContext callbackContext) throws JSONException {
         if (action.equals("Plus")) {
